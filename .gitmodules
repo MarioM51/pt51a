@@ -1,18 +1,23 @@
 [submodule "1_analysis"]
 	path = 1_analysis
-	url = https://e.x/1.git
+	url = git@github.com:MarioM51/pt51a_1_analysis.git
+
 [submodule "2_administration"]
 	path = 2_administration
-	url = https://e.x/2.git
+	url = git@github.com:MarioM51/pt51a_2_administration.git
+
 [submodule "3_database"]
 	path = 3_database
-	url = https://e.x/3.git
+	url = git@github.com:MarioM51/pt51a_3_database.git
+
 [submodule "4_backend"]
 	path = 4_backend
-	url = https://e.x/4.git
+	url = git@github.com:MarioM51/pt51a_4_backend.git
+
 [submodule "5_frontend"]
 	path = 5_frontend
-	url = https://e.x/5.git
+	url = git@github.com:MarioM51/pt51a_5_frontend.git
+
 [submodule "6_executable"]
 	path = 6_executable
-	url = https://e.x/6.git
+	url = git@github.com:MarioM51/pt51a_5_executable.git
